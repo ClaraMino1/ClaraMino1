@@ -25,7 +25,7 @@
 <div align="center">
     <h3 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-    GitHub Stats:
+    My GitHub Stats:
 </h3>
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaraMino1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Lenguajes de GitHub" />
