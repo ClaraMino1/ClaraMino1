@@ -13,7 +13,8 @@
 
 <li> 📄 Know about my projects <a href="portfolio" target="blank">Portfolio</a></li>
 </ul>
-<div align="center">
+
+
 <h3 align="center" > 
   <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
   Languages and Tools:</h3>
@@ -21,7 +22,7 @@
   <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=java,react,php,js,html,css,sass,bootstrap,git,docker&perline=5" height="130px"  />
 </p>
-</div>
+
 <br />
 
 <div align="center">
