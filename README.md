@@ -18,7 +18,7 @@
     Languages and Tools:
 </h3>
 <p align="center">
-    <img width="500px" src="https://skillicons.dev/icons?i=java,react,php,js,html,css,sass,bootstrap,git,docker&perline=5" height="130px" />
+    <img width="500px" src="https://skillicons.dev/icons?i=java,react,php,js,html,css,sass,git,docker,antd&perline=6" height="130px" />
 </p>
 <hr>
 
