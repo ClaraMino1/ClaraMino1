@@ -6,7 +6,7 @@
 
 <ul>
         <li>🤝 I’m available for freelancing</li>
-        <li>🌱 I’m currently learning React & Php</li>
+        <li>🌱 I’m currently learning Express & Php</li>
         <li>📫 How to reach me: claraa.mino12@gmail.com</li>
         <li>📄 Know about my projects <a href="" target="_blank">Portfolio</a></li>
     </ul>
