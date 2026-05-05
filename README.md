@@ -2,8 +2,6 @@
 <h3 align="center">Web developer💻</h3>
 
 <div>
-    <img align="right" width="250" alt="GIF" src="https://camo.githubusercontent.com/2a85a3fe4bc2747c3d6114596fbecf23279aacbc4ad08977c7e2e5ab86d2691d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966">
-
 <ul>
         <li>🤝 I’m available for freelancing</li>
         <li>🌱 I’m currently learning Express & Php</li>
@@ -18,7 +16,7 @@
     Languages and Tools:
 </h3>
 
-<p align="center">
+<div align="center">
     <!-- Iconos de lenguajes -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" />
@@ -31,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" />
     <!-- Logo Ant Design -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="50" height="50" alt="Ant Design" title="Ant Design" />
-</p>
+</div>
 <hr>
 
 <div align="center">
