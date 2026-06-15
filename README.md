@@ -6,7 +6,7 @@
         <li>🤝 I’m available for freelancing</li>
         <li>🌱 I’m currently learning Express & Php</li>
         <li>📫 How to reach me: claraa.mino12@gmail.com</li>
-        <li>📄 Know about my projects <a href="" target="_blank">Portfolio</a></li>
+        <li>📄 Know about my projects <a href="https://pulsecode.com.ar/" target="_blank">Portfolio</a></li>
     </ul>
 </div>
 <hr>
